@@ -1,0 +1,13 @@
+Django==1.8.4
+MySQL-python==1.2.5
+PyJWT==1.4.0
+oauthlib==1.0.3
+python-openid==2.2.5
+python-social-auth==0.2.12
+qiniu==7.0.5
+requests==2.7.0
+requests-oauthlib==0.5.0
+six==1.9.0
+UWSGI==2.0.11.1
+wsgiref==0.1.2
+django-tagging==0.4
